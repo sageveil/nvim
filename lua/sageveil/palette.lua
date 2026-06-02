@@ -1,38 +1,38 @@
 ---@type Palette
 return {
-	black = "#101411",
-	black_bright = "#26322A",
+	black = "#101310",
+	black_bright = "#262F26",
 
 	white = "#A8AFA6",
 	white_bright = "#c3cdc0",
 
-	blue = "#75617D",
-	blue_bright = "#927CA0",
+	blue = "#8A8493",
+	blue_bright = "#A39DAC",
 
-	cyan = "#916f54",
-	cyan_bright = "#a37856",
+	cyan = "#7F9476",
+	cyan_bright = "#9AAB90",
 
-	green = "#67825B",
-	green_bright = "#809a73",
+	green = "#959C70",
+	green_bright = "#9C9F7F",
 
-	magenta = "#9D868C",
-	magenta_bright = "#baa5ab",
+	magenta = "#876f7f",
+	magenta_bright = "#947e8d",
 
-	red = "#935155",
-	red_bright = "#b07a77",
+	red = "#9A6B6B",
+	red_bright = "#B08585",
 
-	yellow = "#B4A05A",
-	yellow_bright = "#d4b573",
+	yellow = "#A69966",
+	yellow_bright = "#C6B67E",
 
-	surface = "#1D2320",
-	overlay = "#1F2624",
-	highlight = "#3F322C",
+	surface = "#1C211E",
+	overlay = "#212723",
+	highlight = "#241d21",
 
 	border = "#4E504C",
 
-	muted = "#8C918C",
-	dim = "#616560",
+	muted = "#8A928B",
+	dim = "#6F7B6F",
 
 	cursor = "#A8AFA6",
-	cursor_text = "#101411",
+	cursor_text = "#101310",
 }
