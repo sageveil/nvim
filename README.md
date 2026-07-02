@@ -6,7 +6,7 @@
 <p align="center">A minimalist low-contrast, green-tinted colorscheme 🌱</p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/sageveil/sageveil/refs/heads/main/assets/sageveil-preview.png" width="90%" />
+    <img src="https://raw.githubusercontent.com/sageveil/sageveil/refs/heads/main/assets/nvim-preview.png" width="90%" />
 </p>
 
 # @sageveil/nvim
